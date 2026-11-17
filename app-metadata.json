@@ -1,0 +1,13 @@
+{
+  "name": "Ownfoil",
+  "source": "https://github.com/a1ex4/ownfoil",
+  "docker_image": "a1ex4/ownfoil:2",
+  "version": "2",
+  "repository": "https://github.com/waskevin/tnas-app-ownfoil",
+  "architectures": [
+    "linux/amd64",
+    "linux/arm64"
+  ],
+  "description": "Ownfoil container application prepared for TerraMaster TOS",
+  "submission_status": "not_submitted"
+}

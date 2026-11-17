@@ -1,0 +1,9 @@
+services:
+  ownfoil:
+    image: 
+a1ex4/ownfoil
+:
+2
+    restart: unless-stopped
+    environment:
+      TZ: Asia/Shanghai
